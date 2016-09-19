@@ -1,0 +1,48 @@
+1.无人机问题		军事
+规划问题
+
+关键字 无人机 任务
+
+2.基因位点		生物
+数据处理
+	
+3.室内定位
+机器学习
+
+4.躲避卫星侦察		天文
+预测  天文常识
+
+5.粮食最低收购价格策略	
+评价  预测
+
+1 2 3 4 5
+
+
+问题 
+系统是否知道目标的确切位置，
+
+《无人机航路规划研究》
+FDA 	可行性方向算法 	(Feasible directional gorithm)
+GDA 	通用动态算法	(General dynamical gorithm)
+RnadMAP	实时优化算法	(Realtime optimization algorithm for dynamic maneuvering and penetration)
+
+A*搜索算法
+电势理论
+神经网 
+梯度法
+
+Dynapath算法	前向链动态规划技术	躲避障碍		轨迹树
+
+《基于VORONOI图的无人机空域任务规划方法研究》
+层次规划	voronoi图减少复杂度
+
+《基于粒子群算法的多无人机任务分配方法》
+网络最优模型
+多智能体
+禁忌搜索
+混合整数线性规划
+蚁群算法、退火算法、遗传算法
+
+任务分配函数
+
+距离，角度，时间
